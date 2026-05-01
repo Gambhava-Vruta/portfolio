@@ -96,21 +96,21 @@ export default function App() {
                 desc: 'A robust Machine Learning model designed to predict cardiovascular diseases accurately.',
                 tech: ['Python', 'Scikit-Learn', 'Pandas'],
                 github: 'https://github.com/Gambhava-Vruta',
-                live: 'https://coming-soon.example.com/cardio'
+                live: 'https://cardio-predict-ml.vercel.app/'
               },
               {
                 title: 'AI Study Assistant',
                 desc: 'A Deep Learning and LLM-powered tool to help students summarize notes and generate quizzes.',
                 tech: ['React', 'Python', 'LLM', 'FastAPI'],
                 github: 'https://github.com/Gambhava-Vruta',
-                live: 'https://coming-soon.example.com/ai-study'
+                live: 'https://ai-study-system-ecru.vercel.app/'
               },
               {
                 title: 'Propertia Real Estate App',
                 desc: 'A comprehensive real estate platform with seamless property searches and user dashboards.',
                 tech: ['.NET Core', 'React', 'SQL Server'],
                 github: 'https://github.com/Gambhava-Vruta',
-                live: 'https://coming-soon.example.com/propertia'
+                live: 'https://propertia-frontend-r17k.vercel.app/Auth'
               },
               {
                 title: 'Academic Projects (MERN)',
